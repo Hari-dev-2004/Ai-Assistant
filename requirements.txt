@@ -1,0 +1,11 @@
+transformers
+speechrecognition
+gtts
+pygame
+pybullet
+pyttsx3
+deepface
+opencv-python
+pyautogui
+pygetwindow
+pvorca
